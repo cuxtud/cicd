@@ -25,7 +25,7 @@ Although the template has a design like none other, it is easily customizable to
 
 <h1>Browser Support:</h1>
 
-StarAdmin is designed to work flawlessly with all the latest and modern web browsers.
+StarAdmin is also designed to work flawlessly with all the latest and modern web browsers.
 
 - Chrome (latest )
 - Explorer (latest)
