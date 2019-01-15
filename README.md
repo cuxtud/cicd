@@ -23,7 +23,7 @@ Although the template has a design like none other, it is easily customizable to
 - Google Maps
 - Perfect Scrollbar
 
-<h1>Browser Support:</h1>
+<h1>Browser help:</h1>
 
 StarAdmin is also designed to work flawlessly with all the latest and modern web browsers.
 
