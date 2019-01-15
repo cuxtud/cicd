@@ -40,7 +40,7 @@ StarAdmin is also designed to work flawlessly with all the latest and modern web
 
 Star Admin is under MIT license. Star Admin is a free Bootstrap 4 admin template developed from BootstrapDash. Feel free to download it, use it, share it, get creative with it.
 
-<h1>How to use Star Admin?</h1>
+<h1>How to use Star Admin portal?</h1>
 <hr>
 
 
